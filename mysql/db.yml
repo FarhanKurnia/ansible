@@ -28,7 +28,7 @@
          host: '%'
          state: present
     
-    - name: creating medium_db 
+    - name: creating farhan_db 
       mysql_db:
          name: "{{db_name}}"
          state: present
