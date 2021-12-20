@@ -1,6 +1,6 @@
 ---
 app_user: "osboxes"
-http_host: "localhost"
-http_conf: "000-default.conf"
+http_host: "html"
+http_conf: "apache2.conf"
 http_port: "80"
 disable_default: true
