@@ -1,6 +1,6 @@
 ---
-app_user: "sammy"
-http_host: "your_domain"
-http_conf: "your_domain.conf"
+app_user: "osboxes"
+http_host: "localhost"
+http_conf: "000-default.conf"
 http_port: "80"
 disable_default: true
